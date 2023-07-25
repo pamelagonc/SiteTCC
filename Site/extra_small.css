@@ -1,0 +1,238 @@
+/*Fotorama*/
+.fotorama__caption{
+    font-family: Leorio;
+    text-align: center;
+    font-size: 17px;    
+}
+
+/*Topo*/
+.fundoTopo{
+    background-color: #F00;
+    border-bottom: solid 1px #fff;
+}
+
+.logo{
+    width: 120px;
+}
+
+.navbar-dark .nav-link{
+    color: #fff !important;
+    border-bottom: solid 3px #f00;
+}
+
+.navbar-dark .nav-link:hover{
+    border-bottom: solid 3px #fff;
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.social img{
+    width: 50px;
+    margin-left: 10px;
+}
+
+/*Banner*/
+.banner{
+    background-size: cover;
+    background-position: top center;
+    height: 472px;
+    color: #fff;
+    text-shadow: 2px 2px 2px rgb(71, 70, 70);
+}
+
+.banner h1{
+    font-size: 44px;
+    margin-top: 170px;
+}
+
+.banner p{
+    margin-top: 50px;
+    font-size: 35px;
+}
+
+.bannerInicio{
+    background-image: url(imagens/pagina.png);
+}
+
+.bannerQuemSomos{
+    background-image: url(imagens/logosemfundo.png);
+}
+
+/*Página inicial*/
+.obras{
+    margin-top: 50px;
+}
+
+.obras h1{
+    margin-bottom: 40px;
+    font-size: 24px;
+    border-bottom: solid 3px #f00;
+    width: 320px;
+    padding-bottom: 10px;
+}
+
+.obras h2{
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.fotorama{
+    margin-bottom: 25px;
+    width: 690px;
+    margin: auto;
+}
+
+.botaoMaisObras{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.botaoMaisObras button{
+    margin-top: 30px;
+}
+
+/*Página inicial*/
+.sobre{
+    margin-top: 50px;
+}
+
+.sobre h1{
+    margin-bottom: 40px;
+    font-size: 24px;
+    border-bottom: solid 3px #f00;
+    width: 120px;
+    padding-bottom: 10px;
+}
+
+.sobre h2{
+    margin-top: 20px;
+    margin-bottom: 22px;
+}
+
+.sobre h3{
+    font-size: 22px;
+    margin-top: 20px;
+    text-align: center;
+    border-bottom: solid 5px #f00;
+    padding-bottom: 5px;
+    width: 360px;
+}
+
+.sobre p{
+    text-indent: 20px;
+    text-align: justify;
+}
+
+.botaoConhecaMais{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.botaoConhecaMais button{
+    margin-top: 30px;
+}
+
+/* Rodapé */
+footer{
+    background-color: #000;
+    color: #fff;
+    font-size: 11px;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+.autor{
+    text-align: right;
+}
+
+.autor a{
+    color: rgb(178, 6, 6);
+    font-size: 12px;
+}
+
+/*Profissionais*/
+.profissionais{
+    margin-top: 50px;
+}
+
+.profissionais img{
+    width: 300px;
+    height: 180px;
+}
+
+.profissionais p{
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.profissionais h1{
+    margin-bottom: 40px;
+    font-size: 24px;
+    border-bottom: solid 3px #f00;
+    width: 190px;
+    padding-bottom: 10px;
+}
+
+.profissionais h2{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.profissionais h3{
+    font-size: 25px;
+}
+
+.profissionais h4{
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+
+.profissionais .card{
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+
+/*Profissionais*/
+.contato{
+    margin-top: 50px;
+}
+
+.contato h1{
+    margin-bottom: 30px;
+    font-size: 24px;
+    border-bottom: solid 3px #f00;
+    width: 190px;
+    padding-bottom: 10px;
+}
+.contato p{
+    margin-bottom: 40px;
+}
+
+.contato iframe{
+    width: 100%;
+    height: 380px;
+    border: solid 1px #ced4da;
+    border-radius: 5px;
+}
+
+.contato input,
+.contato select,
+.contato textarea{
+    margin-bottom: 10px;
+}
+
+.contato textarea{
+    height: 140px;
+    resize: none;
+}
+
+.email{
+    color: #f00;
+}
