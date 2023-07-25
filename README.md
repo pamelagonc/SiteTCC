@@ -1,3 +1,3 @@
 # Site
 Site de TCC.
-Site para anúncio de eventos.
+Site de anúncio de festas.
