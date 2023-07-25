@@ -1,4 +1,3 @@
 # Site
-Site criado para empresa de construção civil.
-Site responsivo.
-Site ativo   wwww.sangaletticonstrucoes.com.br
+Site de TCC.
+Site para anúncio de eventos.
